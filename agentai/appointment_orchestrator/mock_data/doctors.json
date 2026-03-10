@@ -1,0 +1,27 @@
+[
+  {
+    "doctor_id": 101,
+    "name": "Dr. Sharma",
+    "specialty": "Cardiology",
+    "availability_status": "unavailable"
+  },
+  {
+    "doctor_id": 102,
+    "name": "Dr. Verma",
+    "specialty": "Cardiology",
+    "availability_status": "available"
+  },
+  {
+    "doctor_id": 103,
+    "name": "Dr. Singh",
+    "specialty": "Cardiology",
+    "availability_status": "available"
+  },
+  {
+    "doctor_id": 104,
+    "name": "Dr. Nair",
+    "specialty": "Dermatology",
+    "availability_status": "available"
+  }
+]
+

@@ -1,0 +1,27 @@
+[
+  {
+    "patient_id": 1,
+    "name": "Ravi",
+    "distance_km": 4,
+    "urgency": 1,
+    "wait_hours": 3,
+    "status": "waiting"
+  },
+  {
+    "patient_id": 2,
+    "name": "Anita",
+    "distance_km": 2,
+    "urgency": 0,
+    "wait_hours": 5,
+    "status": "waiting"
+  },
+  {
+    "patient_id": 3,
+    "name": "Rahul",
+    "distance_km": 6,
+    "urgency": 1,
+    "wait_hours": 2,
+    "status": "waiting"
+  }
+]
+

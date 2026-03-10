@@ -1,0 +1,38 @@
+[
+  {
+    "patient_id": 1,
+    "name": "Ravi",
+    "phone": "+919900000001",
+    "location": "Indiranagar Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "distance_km": 0.0,
+    "urgency": 1,
+    "wait_hours": 3,
+    "status": "waiting"
+  },
+  {
+    "patient_id": 2,
+    "name": "Anita",
+    "phone": "+919900000002",
+    "location": "Koramangala Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "distance_km": 5.18,
+    "urgency": 0,
+    "wait_hours": 5,
+    "status": "waiting"
+  },
+  {
+    "patient_id": 3,
+    "name": "Rahul",
+    "phone": "+919900000003",
+    "location": "Whitefield Bangalore",
+    "latitude": 12.9698,
+    "longitude": 77.7499,
+    "distance_km": 16.83,
+    "urgency": 1,
+    "wait_hours": 2,
+    "status": "booked"
+  }
+]

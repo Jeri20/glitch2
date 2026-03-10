@@ -1,0 +1,38 @@
+[
+  {
+    "slot_id": 1,
+    "doctor_id": 101,
+    "date": "2026-03-10",
+    "time": "11:00",
+    "status": "available",
+    "locked": false,
+    "patient_id": null
+  },
+  {
+    "slot_id": 2,
+    "doctor_id": 101,
+    "date": "2026-03-10",
+    "time": "15:00",
+    "status": "available",
+    "locked": false,
+    "patient_id": null
+  },
+  {
+    "slot_id": 3,
+    "doctor_id": 101,
+    "date": "2026-03-11",
+    "time": "10:00",
+    "status": "available",
+    "locked": false,
+    "patient_id": null
+  },
+  {
+    "slot_id": 4,
+    "doctor_id": 101,
+    "date": "2026-03-11",
+    "time": "18:00",
+    "status": "available",
+    "locked": false,
+    "patient_id": null
+  }
+]
