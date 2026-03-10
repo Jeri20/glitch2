@@ -1,0 +1,93 @@
+[
+  {
+    "slot_id": 1,
+    "doctor_id": 101,
+    "date": "2026-03-10",
+    "time": "09:00",
+    "status": "booked",
+    "patient_id": 1001,
+    "locked": false
+  },
+  {
+    "slot_id": 2,
+    "doctor_id": 101,
+    "date": "2026-03-10",
+    "time": "10:00",
+    "status": "booked",
+    "patient_id": 1002,
+    "locked": false
+  },
+  {
+    "slot_id": 3,
+    "doctor_id": 101,
+    "date": "2026-03-10",
+    "time": "11:00",
+    "status": "booked",
+    "patient_id": 62270,
+    "locked": false
+  },
+  {
+    "slot_id": 4,
+    "doctor_id": 101,
+    "date": "2026-03-10",
+    "time": "12:00",
+    "status": "booked",
+    "patient_id": 25244,
+    "locked": false
+  },
+  {
+    "slot_id": 5,
+    "doctor_id": 101,
+    "date": "2026-03-10",
+    "time": "13:00",
+    "status": "booked",
+    "patient_id": 1003,
+    "locked": false
+  },
+  {
+    "slot_id": 6,
+    "doctor_id": 101,
+    "date": "2026-03-10",
+    "time": "14:00",
+    "status": "booked",
+    "patient_id": 70825,
+    "locked": false
+  },
+  {
+    "slot_id": 7,
+    "doctor_id": 101,
+    "date": "2026-03-10",
+    "time": "15:00",
+    "status": "booked",
+    "patient_id": 25331,
+    "locked": false
+  },
+  {
+    "slot_id": 8,
+    "doctor_id": 101,
+    "date": "2026-03-10",
+    "time": "16:00",
+    "status": "booked",
+    "patient_id": 1004,
+    "locked": false
+  },
+  {
+    "slot_id": 9,
+    "doctor_id": 101,
+    "date": "2026-03-11",
+    "time": "10:00",
+    "status": "booked",
+    "patient_id": 16311,
+    "locked": false
+  },
+  {
+    "slot_id": 10,
+    "doctor_id": 101,
+    "date": "2026-03-11",
+    "time": "18:00",
+    "status": "cancelled",
+    "patient_id": null,
+    "locked": false,
+    "previous_patient_id": 24079
+  }
+]
