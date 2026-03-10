@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "sender": "919999999999",
+    "name": "Demo User",
+    "source": "whatsapp_text",
+    "raw_text": "Hi I am x. I am in Tambaram and have headache and fever. Need consultation tomorrow evening",
+    "patient_id": "24079",
+    "slot_id": 10,
+    "doctor_id": 101,
+    "date": "2026-03-11",
+    "time": "18:00",
+    "status": "cancelled",
+    "created_at": "2026-03-09T22:04:21.516713",
+    "cancelled_at": "2026-03-09T22:04:26.112876"
+  },
+  {
+    "id": 2,
+    "sender": "919999999999",
+    "name": "Demo User",
+    "source": "whatsapp_text",
+    "raw_text": "Hi I am x. I am in Tambaram and have headache and fever. Need consultation tomorrow evening",
+    "patient_id": "25244",
+    "slot_id": 4,
+    "doctor_id": 101,
+    "date": "2026-03-10",
+    "time": "12:00",
+    "status": "booked",
+    "created_at": "2026-03-09T22:04:45.919061"
+  },
+  {
+    "id": 3,
+    "sender": "919999999999",
+    "name": "Demo User",
+    "source": "whatsapp_text",
+    "raw_text": "Hi I am y. I am in Tambaram and have headache and fever. Need consultation tomorrow evening",
+    "patient_id": "70825",
+    "slot_id": 6,
+    "doctor_id": 101,
+    "date": "2026-03-10",
+    "time": "14:00",
+    "status": "booked",
+    "created_at": "2026-03-09T22:04:54.584719"
+  },
+  {
+    "id": 4,
+    "sender": "919999999999",
+    "name": "Demo User",
+    "source": "whatsapp_text",
+    "raw_text": "Hi I am z. I am in Tambaram and have headache and fever. Need consultation tomorrow evening",
+    "patient_id": "25331",
+    "slot_id": 7,
+    "doctor_id": 101,
+    "date": "2026-03-10",
+    "time": "15:00",
+    "status": "booked",
+    "created_at": "2026-03-09T22:05:27.449952"
+  },
+  {
+    "id": 5,
+    "sender": "919999999999",
+    "name": "Demo User",
+    "source": "whatsapp_text",
+    "raw_text": "Hi I am a. I am in Tambaram and have headache and fever. Need consultation tomorrow evening",
+    "patient_id": "16311",
+    "slot_id": 9,
+    "doctor_id": 101,
+    "date": "2026-03-11",
+    "time": "10:00",
+    "status": "booked",
+    "created_at": "2026-03-09T22:05:45.011025"
+  }
+]
